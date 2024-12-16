@@ -1,3 +1,0 @@
-cron: can't lock /var/run/crond.pid, otherpid may be 548: Resource temporarily unavailable
-cron: can't lock /var/run/crond.pid, otherpid may be 619: Resource temporarily unavailable
-cron: can't lock /var/run/crond.pid, otherpid may be 733: Resource temporarily unavailable
